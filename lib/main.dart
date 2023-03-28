@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:hive_flutter/adapters.dart';
 import 'package:provider/provider.dart';
 import './models/expense_item.dart';
-part 'expense_item.g.dart';
 
 void main() async {
   // init hive
